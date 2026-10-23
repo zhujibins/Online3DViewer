@@ -2,4 +2,4 @@ name = "online3dviewer"
 compatibility_date = "2025-01-01"
 
 [assets]
-directory = "./build/website"  # Online3DViewer 的默认构建输出目录
+directory = "./build/package/website"  # Online3DViewer 的默认构建输出目录
